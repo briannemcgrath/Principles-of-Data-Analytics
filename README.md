@@ -8,6 +8,7 @@ https://seaborn.pydata.org/generated/seaborn.countplot.html
 https://seaborn.pydata.org/generated/seaborn.scatterplot.html
 https://seaborn.pydata.org/generated/seaborn.regplot.html
 https://seaborn.pydata.org/tutorial/color_palettes.html
+https://seaborn.pydata.org/generated/seaborn.heatmap.html
 
 Using: Python, Jupyter Notebook. 
 ** by Brianne McGrath **

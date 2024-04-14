@@ -24,8 +24,10 @@ https://www.geeksforgeeks.org/how-to-create-frequency-tables-in-python/
 https://seaborn.pydata.org/generated/seaborn.countplot.html
 https://seaborn.pydata.org/generated/seaborn.scatterplot.html
 https://seaborn.pydata.org/generated/seaborn.regplot.html
-https://seaborn.pydata.org/tutorial/color_palettes.html
-https://seaborn.pydata.org/generated/seaborn.heatmap.html
+https://seaborn.pydata.org/tutorial/color_palettes.html (Different color palettes for visualisation purposes)
+https://seaborn.pydata.org/generated/seaborn.heatmap.html (Will likely remove Heatmap - REVIEW THIS REFERENCE IF NOT USING HEATMAP)
+https://corporatefinanceinstitute.com/resources/excel/histogram/ (Additional help on reading histograms)
+https://seaborn.pydata.org/generated/seaborn.FacetGrid.html (How to create a grid of Histograms to review)
 
 Using: Python, Jupyter Notebook. 
 ** by Brianne McGrath **

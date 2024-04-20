@@ -23,6 +23,7 @@ https://realpython.com/pandas-python-explore-dataset/
 https://www.geeksforgeeks.org/how-to-create-frequency-tables-in-python/
 https://seaborn.pydata.org/generated/seaborn.countplot.html
 https://seaborn.pydata.org/generated/seaborn.scatterplot.html
+https://seaborn.pydata.org/generated/seaborn.lmplot.html 
 https://seaborn.pydata.org/generated/seaborn.regplot.html
 https://seaborn.pydata.org/tutorial/color_palettes.html (Different color palettes for visualisation purposes)
 https://seaborn.pydata.org/generated/seaborn.heatmap.html (Will likely remove Heatmap - REVIEW THIS REFERENCE IF NOT USING HEATMAP)

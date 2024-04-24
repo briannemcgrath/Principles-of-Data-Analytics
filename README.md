@@ -26,9 +26,12 @@ https://seaborn.pydata.org/generated/seaborn.scatterplot.html
 https://seaborn.pydata.org/generated/seaborn.lmplot.html 
 https://seaborn.pydata.org/generated/seaborn.regplot.html
 https://seaborn.pydata.org/tutorial/color_palettes.html (Different color palettes for visualisation purposes)
+https://matplotlib.org/stable/gallery/color/named_colors.html (Colour options for Matplotlib)
 https://seaborn.pydata.org/generated/seaborn.heatmap.html (Will likely remove Heatmap - REVIEW THIS REFERENCE IF NOT USING HEATMAP)
 https://corporatefinanceinstitute.com/resources/excel/histogram/ (Additional help on reading histograms)
 https://seaborn.pydata.org/generated/seaborn.FacetGrid.html (How to create a grid of Histograms to review)
+https://www.geeksforgeeks.org/bar-plot-in-matplotlib/ (Bar Charts)
+https://python-graph-gallery.com/3-control-color-of-barplots/#:~:text=You%20can%20change%20the%20color,and%20it%20returns%20a%20color. (Colours for Each Variable in Bar Chart)
 
 Using: Python, Jupyter Notebook. 
 ** by Brianne McGrath **

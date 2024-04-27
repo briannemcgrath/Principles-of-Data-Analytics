@@ -21,6 +21,7 @@ This assignment aims to provide a comprehensive analysis of penguin characterist
 Websites used for research purposes: 
 https://archive.ics.uci.edu/dataset/690/palmer+penguins-3 (Overview of the dataset)
 https://www.kaggle.com/datasets/parulpandey/palmer-archipelago-antarctica-penguin-data (Inspiration for Analysis)
+https://towardsdatascience.com/should-you-use-pandas-corr-function-af82c454bc0 and https://stackoverflow.com/questions/74538936/how-to-use-pandas-dataframe-corr-with-only-a-specific-number-of-columns (Calculating Pearsons correlation coefficient)
 https://realpython.com/pandas-python-explore-dataset/
 https://www.geeksforgeeks.org/how-to-create-frequency-tables-in-python/
 https://seaborn.pydata.org/generated/seaborn.countplot.html

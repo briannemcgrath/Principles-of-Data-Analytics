@@ -10,8 +10,8 @@ The dataset used for this analysis is available here. [ADD LINK]
 
 ## Analysis: 
 - Examine the content of the dataset. 
-- Analysis to gain insights into th relationships between different variables. 
-- Visualisation including scatter plots and histograms.
+- Analysis to gain insights into the relationships between different variables. 
+- Visualisation including bar charts, scatter plots and histograms.
 - Interpretation of findings.
 
 ## Conclusion: 

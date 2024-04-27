@@ -19,6 +19,8 @@ This assignment aims to provide a comprehensive analysis of penguin characterist
 
 ## References: 
 Websites used for research purposes: 
+https://archive.ics.uci.edu/dataset/690/palmer+penguins-3 (Overview of the dataset)
+https://www.kaggle.com/datasets/parulpandey/palmer-archipelago-antarctica-penguin-data (Inspiration for Analysis)
 https://realpython.com/pandas-python-explore-dataset/
 https://www.geeksforgeeks.org/how-to-create-frequency-tables-in-python/
 https://seaborn.pydata.org/generated/seaborn.countplot.html

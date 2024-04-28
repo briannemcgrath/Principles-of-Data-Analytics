@@ -6,7 +6,7 @@ Assignment Work - Analysis carried out on the Palmer Penguins Dataset.
 This assignment contains the analysis of the Palmer Penguins dataset. It aims to analyse the characteristics of penguins using the dataset which contains measurements and attributes of various penguin species. The dataset includes includes information such as bill length, bill depth, flipper length, body mass, species and sex of the penguins. 
 
 ## Data Source: 
-The dataset used for this analysis is available here. [ADD LINK]
+The dataset used for this analysis is available here - (https://raw.githubusercontent.com/mwaskom/seaborn-data/master/penguins.csv)
 
 ## Analysis: 
 - Examine the content of the dataset. 

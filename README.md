@@ -6,7 +6,7 @@ Assignment Work - Analysis carried out on the Palmer Penguins Dataset.
 This assignment contains the analysis of the Palmer Penguins dataset. It aims to analyse the characteristics of penguins using the dataset which contains measurements and attributes of various penguin species. The dataset includes includes information such as bill length, bill depth, flipper length, body mass, species and sex of the penguins. 
 
 ## Data Source: 
-The dataset used for this analysis is available here - (https://raw.githubusercontent.com/mwaskom/seaborn-data/master/penguins.csv)
+The dataset used for this analysis is available here - (https://allisonhorst.github.io/palmerpenguins/)
 
 ## Analysis: 
 - Examine the content of the dataset. 
@@ -23,6 +23,7 @@ https://archive.ics.uci.edu/dataset/690/palmer+penguins-3 (Overview of the datas
 https://www.kaggle.com/datasets/parulpandey/palmer-archipelago-antarctica-penguin-data (Inspiration for Analysis)
 https://towardsdatascience.com/should-you-use-pandas-corr-function-af82c454bc0 and https://stackoverflow.com/questions/74538936/how-to-use-pandas-dataframe-corr-with-only-a-specific-number-of-columns (Calculating Pearsons correlation coefficient)
 https://support.minitab.com/en-us/minitab/help-and-how-to/graphs/histogram/interpret-the-results/key-results/#:~:text=Identify%20the%20peaks%2C%20which%20are,occurs%20at%20about%206%20minutes. (Analysing Histograms)
+https://www.atlassian.com/data/charts/histogram-complete-guide (Histograms)
 https://corporatefinanceinstitute.com/resources/excel/histogram/ (Additional help on reading histograms)
 https://seaborn.pydata.org/generated/seaborn.FacetGrid.html (How to create a grid of Histograms to review)
 https://realpython.com/pandas-python-explore-dataset/

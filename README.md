@@ -1,4 +1,4 @@
-# Principles-of-Data-Analytics Penguins Assignment Respository 
+# Principles of Data Analytics Penguins Assignment Respository 
 
 Assignment Work - Analysis carried out on the Palmer Penguins Dataset.  
 

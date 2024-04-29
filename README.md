@@ -1,4 +1,4 @@
-# Principles of Data Analytics Penguins Assignment Respository 
+# Principles of Data Analytics Palmer Penguins Assignment Respository 
 
 Assignment Work - Analysis carried out on the Palmer Penguins Dataset.  
 
@@ -6,7 +6,7 @@ Assignment Work - Analysis carried out on the Palmer Penguins Dataset.
 This assignment contains the analysis of the Palmer Penguins dataset. It aims to analyse the characteristics of penguins using the dataset which contains measurements and attributes of various penguin species. The dataset includes includes information such as Bill Length, Bill Depth, Flipper Length, Body Mass, Species, Island of Inhabitation and Sex of the penguins. 
 
 ## Data Source: 
-The dataset used for this analysis is available here - (https://allisonhorst.github.io/palmerpenguins/)
+The dataset used for this analysis is available here - (https://allisonhorst.github.io/palmerpenguins/) & (https://raw.githubusercontent.com/mwaskom/seaborn-data/master/penguins.csv)
 
 ## Analysis: 
 - Examine the content of the dataset. 

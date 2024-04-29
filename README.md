@@ -5,6 +5,10 @@ Assignment Work - Analysis carried out on the Palmer Penguins Dataset.
 ## Overview: 
 This assignment contains the analysis of the Palmer Penguins dataset. It aims to analyse the characteristics of penguins using the dataset which contains measurements and attributes of various penguin species. The dataset includes includes information such as Bill Length, Bill Depth, Flipper Length, Body Mass, Species, Island of Inhabitation and Sex of the penguins. 
 
+Species: Adélie, Chinstrap and Gentoo
+Islands of Inhabitation: Biscoe, Dream and Togersen (Islands in the Palmer Archipelago - Antarctica)
+Gender: Male and Female
+
 ## Data Source: 
 The dataset used for this analysis is available here - (https://allisonhorst.github.io/palmerpenguins/) & (https://raw.githubusercontent.com/mwaskom/seaborn-data/master/penguins.csv)
 
@@ -22,6 +26,7 @@ Websites used for Research:
 Overview of Dataset & Inspiration for Analysis:
 - https://archive.ics.uci.edu/dataset/690/palmer+penguins-3 
 - https://www.kaggle.com/datasets/parulpandey/palmer-archipelago-antarctica-penguin-data 
+- https://bookdown.org/rehk/stm1001_dsm_t1_data_visualisation_in_r/penguins.html
 
 Inital Inspection of Dataset: 
 - https://realpython.com/pandas-python-explore-dataset/
